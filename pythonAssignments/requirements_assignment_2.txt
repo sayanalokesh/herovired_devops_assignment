@@ -1,0 +1,6 @@
+psutil
+sys
+
+1. In our local machine, since we deal with a very minimal load,
+   it would not exceed more than 80, without performing any tasks. Hence I have taken 2 as an input,
+   and I have tested to get the desired output "Alert! CPU usage exceeds threshold: 4.3%"

@@ -1,0 +1,5 @@
+We need to import configparser to read the path of the configure file. Also this module is used to read the various configuration files including JSON, XML etc.,
+We also need to import JSON to save and return in the JSON format.
+Then the Request library, this is used to save the output file data as JSON data in the database.
+
+I want an exception in the else block, hence found the keyword "raise", raise keyword allows you to raise an exception from within a Python function.

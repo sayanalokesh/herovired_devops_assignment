@@ -3,7 +3,7 @@ from pymongo import MongoClient
 import os
 from flask import Flask, jsonify
 
-client = MongoClient('mongodb+srv://lokeshsayana:YsGzEev2tFVN8Lrb@cluster0.gdxqqlg.mongodb.net/')
+client = MongoClient('mongodb+srv://username:password@cluster0.gdxqqlg.mongodb.net/')
 db = client['configuration']
 collection = db['items']
 

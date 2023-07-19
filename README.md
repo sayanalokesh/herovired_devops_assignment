@@ -42,10 +42,6 @@ I would like to express my sincere gratitude to Prashant and the entire Hero Vir
 
 I would also like to thank you for taking the time to review my assignment submission. I appreciate your feedback and I will take it into account as I continue to learn and grow.
 
-If you have any questions or need further clarification, please do not hesitate to reach out to me.
-
-Thank you again for everything.
-
 Best regards,
 
 Lokesh Sayana

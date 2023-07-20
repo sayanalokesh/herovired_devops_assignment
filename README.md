@@ -32,10 +32,6 @@ https://github.com/sayanalokesh/herovired_devops_assignment
 
 Step-by-step instructions on how to run the code and any dependencies required are mentioned in the repository. Please go ahead and explore.
 
-## Results and Output
-
-[If applicable, provide a summary of the results obtained from running the code. You may include any relevant graphs, charts, or tables to showcase the output.]
-
 ## Additional Notes
 
 I would like to express my sincere gratitude to Prashant and the entire Hero Vired team for providing me with such a stimulating and supportive learning environment. I have learned so much in such a short period of time, and I am confident that the skills and knowledge I have gained will be invaluable in my future career.
